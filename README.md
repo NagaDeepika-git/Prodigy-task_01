@@ -1,22 +1,14 @@
-# Prodigy-task_01
-This repository contains the tasks/projects I completed during my internship at Prodigy Infotech.
-
-##  Task 01: Responsive Landing PAge
-
-### Description
-This project is a responsive landing page developed using HTML, CSS, and JavaScript. It is designed to provide an engaging user experience with a clean layout, smooth navigation, and interactive elements. The page adapts to different screen sizes, ensuring usability across devices.
+# Prodigy_task-01
+##  Task 01: Responsive Landing Page
+A responsive landing page created during my Web Development Internship at Prodigy InfoTech. The project focuses on building a visually appealing and interactive user interface featuring a dynamic navigation bar with scroll-based styling, smooth transitions, and hover effects. Developed using HTML, CSS, and JavaScript, the design ensures cross-device responsiveness and enhances overall user experience.
 
 ### Features
 
-* Responsive design 
-* Interactive UI 
-* User-friendly interface
+* Responsive design, Interactive UI, User-friendly interface
 
 ### Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+* HTML, CSS, JavaScript
 
 ### How to Run
 
