@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* NAVBAR */
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #2196f3; /* Blue */
+  padding: 15px;
+}
+
+/* MENU LINKS */
+nav a {
+  margin: 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+/* Hover = Yellow */
+nav a:hover {
+  color: yellow;
+}
+
+/* SECTIONS */
+.section {
+  height: 100vh;
+  padding-top: 100px;
+  text-align: center;
+  font-size: 32px;
+}
+
+/* Section colors */
+.home {
+  background-color: #ffeb3b; /* Yellow */
+}
+
+.about {
+  background-color: #4caf50; /* Green */
+  color: white;
+}
+
+.contact {
+  background-color: #e91e63; /* Pink */
+  color: white;
+}
