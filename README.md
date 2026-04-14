@@ -4,10 +4,7 @@ This repository contains the tasks/projects I completed during my internship at 
 ##  Task 01: Responsive Landing PAge
 
 ### Description
-
-Briefly explain what your project does.
-Example:
-This project is a responsive landing page built using HTML, CSS, and JavaScript.
+This project is a responsive landing page developed using HTML, CSS, and JavaScript. It is designed to provide an engaging user experience with a clean layout, smooth navigation, and interactive elements. The page adapts to different screen sizes, ensuring usability across devices.
 
 ### Features
 
